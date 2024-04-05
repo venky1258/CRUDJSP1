@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>JSP CRUD Example</title>
+<title>JSP CRUD Example new branch</title>
 </head>
 <body>  
 <h1>CRUD JSP CRUD Example</h1>  
